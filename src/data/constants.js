@@ -16,7 +16,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Nazil1712",
   resume:
-    "https://drive.google.com/file/d/1Kq21amfJ2S6NhTnF0oeT64lOaSENNdR8/view?usp=drive_link",
+    "https://drive.google.com/file/d/12tHPK1BJAtSiEiV2SDzs7iEdDQkYPvs-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nazil-dhalwala-267586223/",
 };
 
@@ -128,7 +128,7 @@ export const education = [
     img: charusatImg,
     school: "Charotar University of Science And Technology",
     date: "Sep 2022 - Sep 2025",
-    grade: "9.00 CGPA",
+    grade: "8.81 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Information Technology at Charotar University of Science And Technology, Changa. I have completed 5 semesters and having a CGPA of 9.00. I have earned two Certificates of Completion from NPTEL in Database Management Systems (DBMS) and Operating Systems (OS).",
     degree: "Bachelor of Technology - BTech, Information Technology",
   },
